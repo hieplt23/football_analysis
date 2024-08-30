@@ -83,7 +83,7 @@ pip install -r requirements.txt
 - Update the ``video_frames`` variable in ``main.py`` with your input video path
 - Execute the main script: ``python main.py``. Find the output video at ``./output_videos/output.avi``
 <p align="center">
- <img src="./output_videos/demo.gif" width=900></br>
+ <img src="./output_videos/system_demo.gif" width=900></br>
   <em>System Demo</em>
 </p>
 
