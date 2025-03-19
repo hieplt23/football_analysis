@@ -42,6 +42,7 @@ The YOLOv5 model underwent rigorous training for 10 epochs, yielding impressive 
 |--------|-------|------------|
 | Box Loss | 0.97 | 0.93 |
 | Class Loss | 0.50 | 0.47 |
+| mAP@0.5-0.95| _  | 0.5   |
 
 The following graph illustrates the model's performance across epochs:
 
@@ -88,4 +89,4 @@ pip install -r requirements.txt
 </p>
 
 ## 🤝 Contributing
-We welcome contributions to enhance the functionality and performance of this football analysis system. Please feel free to submit a Pull Request or open an Issue for discussions.
+We welcome contributions to enhance the functionality and performance of this football analysis system.
