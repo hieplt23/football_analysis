@@ -70,7 +70,7 @@ cd football_analysis
 2. Set up a virtual environment (recommended):
 ```bash
 python -m venv .venv
-source .venv/bin/activate  # On Windows use `.venv\Scripts\activate`
+.venv\Scripts\activate  # on windows
 ```
 3. Install the required packages:
 ```bash
