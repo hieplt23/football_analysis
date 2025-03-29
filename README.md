@@ -55,8 +55,6 @@ The following graph illustrates the model's performance across epochs:
 
 Ensure you have the following dependencies installed:
 
-- Ultralytics 8.2
-- Roboflow 1.1.41
 - PyTorch 2.3.1
 - OpenCV 4.10
 
